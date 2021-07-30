@@ -6,3 +6,5 @@ I find this project to be very aesthetically pleasing so it was a really fun exp
 
 There's no complex architecture, simple .scss files divided by webpage sections, a base file, and obviously
 a main file. There's a package.json so make sure to install the node_modules.
+
+Oh and I pushed it to netlify: realestatedemoproject.netlify.app :D
